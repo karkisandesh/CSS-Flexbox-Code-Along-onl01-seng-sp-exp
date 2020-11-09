@@ -27,7 +27,7 @@ footer {
 }
 
  .flex-container{
-   class="item setWidth";
+   
    display: flex;
    width: 100vw;
    height: 100vh;
